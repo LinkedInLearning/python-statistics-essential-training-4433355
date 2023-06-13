@@ -1,1 +1,9 @@
-# Specify Python package requirements for your project here (e.g., Mako==1.1.1). If your project doesn't require these, you can leave this file unchanged or delete it.
+jupyterlab==4.0.1
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==2.0.2
+pyarrow==12.0.0
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
+xgboost==1.7.5
