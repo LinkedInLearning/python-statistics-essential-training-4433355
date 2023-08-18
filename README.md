@@ -1,6 +1,10 @@
 # Python Statistics Essential Training
 This is the repository for the LinkedIn Learning course Python Statistics Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![Python Statistics Essential Training][lil-thumbnail-url] 
+
+The field of statistics has become increasingly dependent on data analysis and interpretation using Python. With the rise of big data and data science, the demand for professionals who can effectively analyze and interpret data using Python has skyrocketed. In this course, Matt Harrison teaches you how to collect, clean, analyze, and visualize data using the powerful tools of the Python programming language. Join Matt as he gives into the various techniques that form the backbone of statistics and helps you understand the data with summary statistics and visualizations. He explains how to create predictive models using both linear regression andXGBoost, and wraps up the course with a look at hypothesis testing.
+If you’re interested in exploring statistics using a code-first approach, join Matt in this course as he shows you how to use Python to unlock the power of data.
 ## Instructions
 
 You can run the notebook using:
@@ -61,6 +65,18 @@ To run this codebase locally, you'll need to set up a Python virtual environment
 
 The PyStats-Solutions.ipynb file has the solutions for the exercises.
 
+### Instructor
+
+Matt Harrison 
+                            
+
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/matt-harrison).
+
+[lil-course-url]: https://www.linkedin.com/learning/python-statistics-essential-training-19258005?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQGb_695b92Eyw/learning-public-crop_288_512/0/1692131795957?e=2147483647&v=beta&t=3GG4GDOLjFGiviV1YZ22z12GRTj0dlptXTBjIPVnJZM
 
 
 
